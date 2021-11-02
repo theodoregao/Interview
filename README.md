@@ -81,6 +81,3 @@ Algorithm is the basic skill you need to master for top-level company interviews
 
 # System Design
 [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
-
-[Common System Design Strategy](https://www.evernote.com/shard/s459/sh/a7bf36ba-2b55-4763-83b7-8431ec654290/9389c3cb6c5df835a2862317bd845734)
-
